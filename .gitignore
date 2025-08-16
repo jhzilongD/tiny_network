@@ -1,0 +1,42 @@
+# 构建目录
+build/
+
+# 生成的库文件
+lib/
+
+# CMake生成文件
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+
+# 编译产物
+*.o
+*.so
+*.a
+*.dylib
+
+# IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 日志文件
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.bak
+
+
+.cache/
+
+.clangd

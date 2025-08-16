@@ -82,10 +82,9 @@ for i in {1..100}; do echo "test$i" | nc localhost 8080 & done
 
 ## 📊 性能测试
 
+```
 待做
 ```
-
-
 ## 🔧 核心组件
 
 ### 网络核心 (src/net/)
